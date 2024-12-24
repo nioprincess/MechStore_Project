@@ -1,0 +1,27 @@
+[
+    {
+        "name":"BRAKE FLUID/OIL& ANTIFREEZE",
+        "image":"categories/fluidOil1.png",
+        "price":"$5000",
+        "category":"oil"
+    },
+    {
+        "name":"BRAKE FLUID/OIL& ANTIFREEZE",
+        "image":"categories/fluidOil1.png",
+        "price":"$5000",
+        "category":"oil"
+    },
+    {
+        "name":"BRAKE FLUID/OIL& ANTIFREEZE",
+        "image":"categories/fluidOil1.png",
+        "price":"$5000",
+        "category":"brake"
+    },
+    {
+        "name":"BRAKE FLUID/OIL& ANTIFREEZE",
+        "image":"categories/fluidOil1.png",
+        "price":"$5000",
+        "category":"oil"
+    }
+  
+]
